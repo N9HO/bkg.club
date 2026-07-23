@@ -3,11 +3,20 @@
 A commemorative **QSL card** handed to new members initiated at the Huntsville Hamfest.
 It doubles as a real, fill-in-by-hand QSL confirming the qualifying 2m CW contact.
 
-- **Front:** the "I GOT POUNDED AT HUNTSVILLE HAMFEST!!" hero, BKG logo, and two fill-in
-  slots — **"I GOT MY NUMBER → BKG #___"** and **"MY CALL ___"**.
+- **Front:** commemorative hero, BKG logo, and two fill-in slots —
+  **"I GOT MY NUMBER → BKG #___"** and **"MY CALL ___"**.
 - **Back:** traditional QSL confirmation grid — `RADIO ___ de ___`, DATE/TIME (UTC), RST,
   BAND/FREQ/MODE (2M / 144.025 / CW pre-filled), 2-WAY (2X CW), PWR, BKG #, PSE/TNX QSL
   boxes, RIG/ANT, OP NAME, and a REMARKS line. BKG.club footer with logo + QR.
+
+## Two versions
+
+Same layout and design, two copy tones — pick per audience:
+
+| | Files | Front hero | Back tag | RIG |
+|---|---|---|---|---|
+| **Original** (cheeky) | `BKG-QSL-card.pdf`, `qsl-front.png`, `qsl-back.png`, `qsl.html` | "I got publicly pounded at the 2026 Huntsville Hamfest" | "Now go do (2m) violence!" | "That MF Sheng" |
+| **Clean** (kid-friendly) | `BKG-QSL-card-clean.pdf`, `qsl-clean-front.png`, `qsl-clean-back.png`, `qsl-clean.html` | "I earned my brass at the 2026 Huntsville Hamfest" | "Now go pound some (2m) brass!!" | "That lil' Sheng" |
 
 ## Print specs
 
