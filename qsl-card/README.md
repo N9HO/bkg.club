@@ -15,7 +15,7 @@ Same layout and design, two copy tones — pick per audience:
 
 | | Files | Front hero | Back tag | RIG |
 |---|---|---|---|---|
-| **Original** (cheeky) | `BKG-QSL-card.pdf`, `qsl-front.png`, `qsl-back.png`, `qsl.html` | "I got jumped in at the 2026 Huntsville Hamfest" | "Now go do (2m) violence!" | "That MF Sheng" |
+| **Original** (cheeky) | `BKG-QSL-card.pdf`, `qsl-front.png`, `qsl-back.png`, `qsl.html` | "I got jumped in at the 2026 Huntsville Hamfest" | "Now go claim ur (2m) turf!!" | "That MF Sheng" |
 | **Clean** (kid-friendly) | `BKG-QSL-card-clean.pdf`, `qsl-clean-front.png`, `qsl-clean-back.png`, `qsl-clean.html` | "I earned my brass at the 2026 Huntsville Hamfest" | "Now go pound some (2m) brass!!" | "That lil' Sheng" |
 
 ## Print specs
